@@ -3,15 +3,15 @@
 #Server
 
 vsphere_user = "administrator@vsphere.local"
-vsphere_pwd = "3KWTVLjV4>uf2"
-vsphere_server = "172.180.0.200"
+vsphere_pwd = "vCenter Password"
+vsphere_server = "vCenter @IP"
 
 #Infrastructure
 
 vsphere_datacenter = "Datacenter"
 vsphere_datastore = "datastore1"
-vsphere_esxi_name = "172.180.0.128"
-vsphere_network = "ESGI-PG"
+vsphere_esxi_name = "ESXI @IP"
+vsphere_network = "ESXI Network"
 
 #VM Configuration
 
